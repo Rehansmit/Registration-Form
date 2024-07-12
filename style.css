@@ -1,0 +1,29 @@
+*{
+    background-color: rgb(236, 240, 240);
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue;
+}
+.head{
+    height: 200px;
+    margin: 2%;
+}
+#C-ity{
+    height: 50px;
+    width: 500px;
+    border: 2px solid greenyellow;
+    border-radius: 10px;
+    justify-content: space-around;
+    /* display: inline-block; */
+}
+
+.city{ 
+    display: flex;
+    display: inline-block;
+
+}
+.parent {
+    display: flex;
+    justify-content: space-around;
+}
